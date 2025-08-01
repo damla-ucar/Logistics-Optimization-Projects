@@ -38,8 +38,7 @@ Even when resources are limited, data-driven optimization improves aid delivery 
 ---
 
 ## 📂 **Repository Contents**
-- `Model_and_Scenarios.ipynb`:  
-  Code for all three scenarios, written in Python with Gurobi.
+- `Code/`: Python notebooks implementing optimization models (with Gurobi) for all three scenarios.
 - **Note**: Only the **2km and 3km radius cases** are included in this repo for demonstration.
 - `Report.pdf`:  Contains full methodology, visualizations, and analysis.
 

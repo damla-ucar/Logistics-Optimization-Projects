@@ -27,7 +27,7 @@ Centers must also be located near major roads or transportation hubs to ensure s
 
 ---
 
-##**Key Findings & Insights**
+## **Key Findings & Insights**
 - Larger radii reduce the number of centers required for complete coverage.
 - With only 4 centers allowed, increasing radius can significantly improve population coverage.
 - Some scenarios yield multiple equally optimal solutions, allowing flexibility in site choice.

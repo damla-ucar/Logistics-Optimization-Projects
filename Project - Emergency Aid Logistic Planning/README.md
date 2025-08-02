@@ -19,7 +19,7 @@ Centers must also be located near major roads or transportation hubs to ensure s
 
 ---
 
-## ⚙️ **Methodology**
+## **Methodology**
 - Built **mixed-integer programming (MIP)** models using **Gurobi**.
 - Explored trade-offs between number of centers, coverage radius, and total distance.
 - Analyzed sensitivity of results to radius changes.
@@ -27,7 +27,7 @@ Centers must also be located near major roads or transportation hubs to ensure s
 
 ---
 
-## 📊 **Key Findings & Insights**
+##**Key Findings & Insights**
 - Larger radii reduce the number of centers required for complete coverage.
 - With only 4 centers allowed, increasing radius can significantly improve population coverage.
 - Some scenarios yield multiple equally optimal solutions, allowing flexibility in site choice.
@@ -37,7 +37,7 @@ Even when resources are limited, data-driven optimization improves aid delivery 
 
 ---
 
-## 📂 **Repository Contents**
+## **Repository Contents**
 - `Code/`: Python notebooks implementing optimization models (with Gurobi) for all three scenarios.
 - **Note**: Only the **2km and 3km radius cases** are included in this repo for demonstration.
 - `Report.pdf`:  Contains full methodology, visualizations, and analysis.
